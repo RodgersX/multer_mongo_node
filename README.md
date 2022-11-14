@@ -1,0 +1,1 @@
+Make sure to create the ```uploads``` folder in your root directory
